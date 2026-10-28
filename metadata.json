@@ -1,0 +1,10 @@
+{
+  "name": "English Speaking Adventure 4 - Global Success",
+  "description": "Ứng dụng luyện kỹ năng nghe - nói tiếng Anh lớp 4 theo sách Global Success, tích hợp trợ lý AI Sunny và hệ thống bài tập tương tác chuẩn GDPT 2018. Tác giả: Lê Thị Thu Hương - Trường Tiểu học Lê Kim Lăng - TP Đà Nẵng.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
